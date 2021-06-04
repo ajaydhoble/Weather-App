@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city_name">Fetching..</string>
+    <string name="temperature">NA</string>
+    <string name="weather_description">Weather Description</string>
+    <string name="change_city_description">change city description</string>
+    <string name="back_button">back_Button</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="change_city">Change City</string>
+    <string name="temperature_text">Temperature</string>
+    <string name="city_text">City</string>
+    <string name="date_time_text">30/7/2020</string>
+    <string name="updating">Updating</string>
+    <string name="icon">icon</string>
+    <string name="logo_text">Weather App</string>
+    <string name="made_with_openweathermap_org">Made with openweathermap.org</string>
+    <string name="wind">Wind</string>
+    <string name="air_quality_moderate">AQ - Moderate</string>
+    <string name="t_dateText">****-**-**</string>
+</resources>
